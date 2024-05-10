@@ -28,5 +28,12 @@ public class ComAD extends Service
 		a.createinrest();
 		
 	}
+	
+	/*
+	 * 
+	@FXML
+    private ListView<?> ADList;
+	 * */
+	 */
 
 }
